@@ -1,5 +1,5 @@
 # Projet Robotique – Groupe 9
-Licence 3 Génie des Systèmes Industriels – Université d'Évry Paris-Saclay
+L3 SPI  – Université d'Évry Paris-Saclay
 
 ## Arborescence
 - `code/` — Code Arduino (suivi de ligne, obstacles, couleur, lanceur)
