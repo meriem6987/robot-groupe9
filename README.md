@@ -1,5 +1,11 @@
 # Projet Robotique – Groupe 9
 L3 SPI  – Université d'Évry Paris-Saclay
+Meriem BENGHERABI 20234922
+Romane Lipp-Georgé 20231186
+Djiyan Aslan 20232553
+Katia Yahiaoui 20245268
+Ines Sahki 20235852
+
 
 ## Arborescence
 - `code/` — Code Arduino (suivi de ligne, obstacles, couleur, lanceur)
